@@ -1,0 +1,39 @@
+html {
+    font: Roboto;
+}
+
+body {
+display: flex;
+align-content: center;
+
+}
+
+.hero {
+color:#1F2937 ;
+display: flex;
+
+}
+.hero-inner {
+    display: flex;
+    padding: 10%;
+    justify-content:space-around;
+}
+
+.random {
+flex-grow: 3;
+
+}
+
+.quote {
+    flex-grow: 3;
+ 
+}
+
+.signup {
+    flex-grow: 3;
+  
+}
+
+footer {
+    flex-grow: 1;
+}
